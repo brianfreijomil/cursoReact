@@ -1,0 +1,16 @@
+-Nombre de componentes siempre en PascalCase (evitar colision)
+
+-No mutar props
+
+-React funciona de manera declarativa
+
+-Cuando se renderiza un componente de react tambien se propaga en todo lo que envuelve (elementos, componentes, etc) pero si inspeccionas la interfaz solo se refleja renderizacion de lo especifico
+
+
+-children es todo lo que envuelve un elemento
+
+-HOOKS: añaden funcionalidad a los componentes de react
+	-usestate (tiene un valor y una forma de cambiar el valor)
+
+
+-Inicializar el estado solo ocurre una vez (el estado se inicializa una vez!!!!)
